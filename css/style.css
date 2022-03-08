@@ -372,6 +372,7 @@ code,pre{
     padding: 10px;
 }
 .hidden{
+    display: noneg;
     visibility: hidden;
     height: 0;
 }
